@@ -44,12 +44,6 @@
 </p>
 
 ------------
-### :fire: &nbsp; My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-------------
 
 ### 📫 &nbsp; Find me on :
 
