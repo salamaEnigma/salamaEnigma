@@ -12,7 +12,7 @@
 
 ------------
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>  ### In Flutter :
+### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> In Flutter :
 
 > * I write clean, testable  and well designed flutter applications.
 > * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
