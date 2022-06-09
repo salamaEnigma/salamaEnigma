@@ -14,11 +14,11 @@
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> In Flutter :
 
-> * I write clean, testable  and well designed flutter applications.
-> * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
-> * I implement complex and elegant UI designs / animations respecting Google Material Design 3 guidelines, providing the best possible user experience.
-> * I have a decent experience with RESTful APIs , Firebase , SQL and MongoDB.
-> * I have experience using Google WebRTC & Socker.io.
+* I write clean, testable  and well designed flutter applications.
+* I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
+* I implement complex and elegant UI designs / animations respecting Google Material Design 3 guidelines, providing the best possible user experience.
+* I have a decent experience with RESTful APIs , Firebase , SQL and MongoDB.
+* I have experience using Google WebRTC & Socker.io.
 
 ------------
 
@@ -44,9 +44,16 @@
 
 ------------
 
-### Find me on :
+### 📫 Find me on :
+
+<div id="footer" align="center">
 
 [<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />](https://www.linkedin.com/in/salamaEnigma)
+
 [<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=flat" />](https://twitter.com/gray_hat_enigma)
-[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=flat" />](https://www.facebook.com/salama.enigma)
+
+[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=square" />](https://www.facebook.com/salama.enigma)
+</div>
+
+
 
