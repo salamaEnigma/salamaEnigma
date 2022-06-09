@@ -1,8 +1,7 @@
 
-
 <div id="header" align="center">
-  <img src=./files/profile.jpeg height="auto" width="165" style="border-radius:50%"/>
 
+![Lichtenstein](https://images.weserv.nl/?url=raw.githubusercontent.com/salamaEnigma/salamaEnigma/main/files/profile.jpeg&w=180&h=180&fit=cover&mask=circle&maxage=7d)
 
 </div>
 &nbsp;
@@ -46,8 +45,10 @@
 
 ------------
 ### :fire: &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
+</p>
 
 ------------
 
