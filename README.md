@@ -1,7 +1,9 @@
 
 
 <div id="header" align="center">
-  <img src="https://media-exp2.licdn.com/dms/image/C4D03AQGYVjlbAKw7zw/profile-displayphoto-shrink_800_800/0/1628600412753?e=1660176000&v=beta&t=-WIHn_QUi4hoDP64HgAKikY5Cxd-unNF-mRxXrHXIDU" height="auto" width="165" style="border-radius:50%"/>
+  <img src=./files/profile.jpeg height="auto" width="165" style="border-radius:50%"/>
+
+
 </div>
 &nbsp;
 <p align="center"><img src="https://komarev.com/ghpvc/?username=salamaEnigma&style=for-the-badge&color=blue" alt=""></p>
@@ -10,7 +12,7 @@
 ### :man_technologist: &nbsp;About Me :
 #### I'm Mohamed Salama a Self-taught Software Engineer and a Full-Time Flutter Developer at [Kortobaa Integrated Solutions](https://kortobaa.com)
 
-&nbsp;
+
 **I have 3+ Years of experience in Mobile Apps Development.**
 
 &nbsp;
