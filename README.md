@@ -20,11 +20,11 @@
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; In Flutter :
 
 * I write clean, testable and well designed flutter applications.
-* I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - Provider - etc .. ).
+* I have a very good knowledge with the different ways of managing state in a flutter app (BLoC - RXDart - Riverpod - Provider - etc .. ).
 * I implement complex and elegant UI designs / animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
 * I have a decent experience with RESTful APIs, Firebase, Hive, and SQLite.
 * I have experience using Google WebRTC & WebSocket (Socket.io).
-* I'm familiar with Kotlin & Swift for developing platform specific features in both Android & iOS.
+* I'm familiar with Kotlin & Swift for developing platform specific features in both Android & iOS using Platform Channels.
 
 ------------
 
