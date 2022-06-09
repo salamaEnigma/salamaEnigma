@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media-exp2.licdn.com/dms/image/C4D03AQGYVjlbAKw7zw/profile-displayphoto-shrink_800_800/0/1628600412753?e=1660176000&v=beta&t=-WIHn_QUi4hoDP64HgAKikY5Cxd-unNF-mRxXrHXIDU" height="auto" width="200" style="border-radius:50%"/>
+  <img src="https://media-exp2.licdn.com/dms/image/C4D03AQGYVjlbAKw7zw/profile-displayphoto-shrink_800_800/0/1628600412753?e=1660176000&v=beta&t=-WIHn_QUi4hoDP64HgAKikY5Cxd-unNF-mRxXrHXIDU" height="auto" width="165" style="border-radius:50%"/>
 </div>
 &nbsp;
 <p align="center"><img src="https://komarev.com/ghpvc/?username=salamaEnigma&style=for-the-badge&color=blue" alt=""></p>
@@ -10,15 +10,20 @@
 ### :man_technologist: &nbsp;About Me :
 #### I'm Mohamed Salama a Self-taught Software Engineer and a Full-Time Flutter Developer at [Kortobaa Integrated Solutions](https://kortobaa.com)
 
+&nbsp;
+**I have 3+ Years of experience in Mobile Apps Development.**
+
+&nbsp;
 ------------
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; In Flutter :
 
-* I write clean, testable  and well designed flutter applications.
+* I write clean, testable and well designed flutter applications.
 * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
 * I implement complex and elegant UI designs / animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
-* I have a decent experience with RESTful APIs , Firebase , SQL and MongoDB.
+* I have a decent experience with RESTful APIs , Firebase , SQLite and MongoDB.
 * I have experience using Google WebRTC & Socket.io.
+* I'm familiar with Kotlin & Swift for developing platform specific features in both Android & iOS.
 
 ------------
 
@@ -48,12 +53,14 @@
 
 <div id="footer" align="center">
 
-[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />](https://www.linkedin.com/in/salamaEnigma)
+[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)&nbsp;&nbsp;
+[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/gray_hat_enigma)&nbsp;&nbsp;
+[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
 
-[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=flat" />](https://twitter.com/gray_hat_enigma)
-
-[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=square" />](https://www.facebook.com/salama.enigma)
 </div>
 
+------
+### 📄&nbsp; CV :
+***Updated at 9 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
 
 
