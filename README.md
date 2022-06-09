@@ -18,7 +18,7 @@
 
 ### In Flutter :
 
-> * I write clean, testable  and well designed flutter application.
+> * I write clean, testable  and well designed flutter applications.
 > * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
 > * I implement complex and elegant UI designs / animations respecting Google Material Design 3 guidelines, providing the best possible user experience.
 > * I have a decent experience with RESTful APIs , Firebase , SQL and MongoDB.
@@ -41,13 +41,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+------------
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ------------
 
 ### Find me on :
 
-[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma/)
+[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)
 
+[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/gray_hat_enigma)
 
-
+[<img src = "https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
 
