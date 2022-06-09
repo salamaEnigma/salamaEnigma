@@ -12,13 +12,13 @@
 
 ------------
 
-### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> In Flutter :
+### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; In Flutter :
 
 * I write clean, testable  and well designed flutter applications.
 * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
-* I implement complex and elegant UI designs / animations respecting Google Material Design 3 guidelines, providing the best possible user experience.
+* I implement complex and elegant UI designs / animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
 * I have a decent experience with RESTful APIs , Firebase , SQL and MongoDB.
-* I have experience using Google WebRTC & Socker.io.
+* I have experience using Google WebRTC & Socket.io.
 
 ------------
 
@@ -38,13 +38,13 @@
 </p>
 
 ------------
-### :fire: My Stats :
+### :fire: &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ------------
 
-### 📫 Find me on :
+### 📫 &nbsp; Find me on :
 
 <div id="footer" align="center">
 
