@@ -12,11 +12,7 @@
 
 ------------
 
-<div id="flutter" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="80" height="80"/>
-</div>
-
-### In Flutter :
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>  ### In Flutter :
 
 > * I write clean, testable  and well designed flutter applications.
 > * I have a very good knowledge with the different ways of managing state in flutter (BLoC - RXDart - Riverpod - etc .. ).
@@ -43,7 +39,7 @@
 
 ------------
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salamaEnigma&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ------------
@@ -51,8 +47,6 @@
 ### Find me on :
 
 [<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />](https://www.linkedin.com/in/salamaEnigma)
-
 [<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=flat" />](https://twitter.com/gray_hat_enigma)
-
 [<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=flat" />](https://www.facebook.com/salama.enigma)
 
