@@ -50,9 +50,9 @@
 
 ### Find me on :
 
-[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)
+[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />](https://www.linkedin.com/in/salamaEnigma)
 
-[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/gray_hat_enigma)
+[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=flat" />](https://twitter.com/gray_hat_enigma)
 
-[<img src = "https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
+[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=flat" />](https://www.facebook.com/salama.enigma)
 
