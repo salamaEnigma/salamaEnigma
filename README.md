@@ -21,9 +21,9 @@
 
 * I write clean, testable and well designed flutter applications.
 * I have a very good knowledge with the different ways of managing state in a flutter app (BLoC - RXDart - Riverpod - Provider - etc .. ).
-* I implement complex and elegant UI designs / animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
+* I implement complex and responsive UI designs & animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
 * I have a decent experience with RESTful APIs, Firebase, Hive, and SQLite.
-* I have experience using Google WebRTC & WebSocket (Socket.io).
+* I have experience with Google WebRTC & WebSocket (Socket.io).
 * I'm familiar with Kotlin & Swift for developing platform specific features in both Android & iOS using Platform Channels.
 
 ------------
