@@ -44,9 +44,15 @@
 </p>
 
 ------------
+### 📄&nbsp; CV :
+***Updated at 9 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
 
-### 📫 &nbsp; Find me on :
+------------
 
+### 📫&nbsp; Contact :
+* 📞 Tel.&nbsp;&nbsp;+201558696799
+* 📧 salama92work@gmail.com
+#### You can also find me on:
 <div id="footer" align="center">
 
 [<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)&nbsp;&nbsp;
@@ -54,13 +60,3 @@
 [<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
 
 </div>
-
-------
-### 📄&nbsp; CV :
-***Updated at 9 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
-
-------
-
-### ℹ️&nbsp; Contact Info :
-* 📞 +201558696799
-* 📧 salama92work@gmail.com
