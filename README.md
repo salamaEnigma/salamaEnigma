@@ -50,8 +50,8 @@
 ------------
 
 ### 📫&nbsp; Contact :
-* 📞 Tel.&nbsp;&nbsp;+201558696799
-* 📧 salama92work@gmail.com
+* Tel. : &nbsp;&nbsp;&nbsp;&nbsp;+201558696799
+* Email : &nbsp;salama92work@gmail.com
 #### You can also find me on:
 <div id="footer" align="center">
 
