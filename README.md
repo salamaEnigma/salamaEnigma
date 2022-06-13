@@ -17,7 +17,7 @@
 &nbsp;
 ------------
 
-### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; In Flutter :
+### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; As a Flutter Developer :
 
 * I write clean, testable and well designed flutter applications.
 * I have a very good knowledge with the different ways of managing state in a flutter app (BLoC - RXDart - Riverpod - Provider - etc .. ).
@@ -45,7 +45,7 @@
 
 ------------
 ### 📄&nbsp; CV :
-***Updated at 9 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
+***Updated at 13 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
 
 ------------
 
