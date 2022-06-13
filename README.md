@@ -44,6 +44,14 @@
 </p>
 
 ------------
+
+### 📈 Github Stats :
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salamaEnigma&show_icons=true&theme=gotham" alt="salamaEnigma" />
+
+
+
+------------
 ### 📄&nbsp; CV :
 ***Updated at 13 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
 
@@ -60,3 +68,4 @@
 [<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
 
 </div>
+
