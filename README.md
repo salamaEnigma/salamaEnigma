@@ -45,13 +45,6 @@
 
 ------------
 
-### 📈 Github Stats :
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salamaEnigma&show_icons=true&theme=gotham" alt="salamaEnigma" />
-
-
-
-------------
 ### 📄&nbsp; CV :
 ***Updated at 13 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
 
