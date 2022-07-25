@@ -52,8 +52,7 @@
 <div id="footer" align="center">
 
 [<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)&nbsp;&nbsp;
-[<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/gray_hat_enigma)&nbsp;&nbsp;
-[<img src = "https://img.shields.io/badge/Facebook-informational?logo=facebook&logoColor=white&style=for-the-badge" />](https://www.facebook.com/salama.enigma)
+
 
 </div>
 
