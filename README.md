@@ -45,11 +45,6 @@
 
 ------------
 
-### 📄&nbsp; CV :
-***Updated at 13 June 2022*** : **[Here](./files/Mohamed_Salama.pdf)**
-
-------------
-
 ### 📫&nbsp; Contact :
 * Tel. : &nbsp;&nbsp;&nbsp;&nbsp;+201558696799
 * Email : &nbsp;salama92work@gmail.com
