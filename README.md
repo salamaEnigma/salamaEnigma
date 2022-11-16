@@ -1,9 +1,3 @@
-
-<div id="header" align="center">
-
-![Lichtenstein](https://images.weserv.nl/?url=raw.githubusercontent.com/salamaEnigma/salamaEnigma/main/files/profile.jpeg&w=180&h=180&fit=cover&mask=circle&maxage=7d)
-
-</div>
 &nbsp;
 <p align="center"><img src="https://komarev.com/ghpvc/?username=salamaEnigma&style=for-the-badge&color=blue" alt=""></p>
 
