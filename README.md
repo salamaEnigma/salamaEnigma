@@ -9,11 +9,8 @@
 
 
 ### :man_technologist: &nbsp;About Me :
-#### I'm Mohamed Salama a Self-taught Software Engineer and a Full-Time Flutter Developer at [Kortobaa Integrated Solutions.](https://kortobaa.com)
-
-
-**I have 3+ Years of experience in Mobile Apps Development.**
-
+#### I'm Mohamed Salama a Self-taught Software Engineer and a Flutter Developer for more than 3 years, Currently I work as Freelancer and a Flutter Instructor for Junior Developers.
+s
 &nbsp;
 ------------
 
