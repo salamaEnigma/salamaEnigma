@@ -3,22 +3,9 @@
 
 
 ### :man_technologist: &nbsp;About Me :
-#### I'm Mohamed Salama a Self-taught Software Engineer and a Flutter Developer for more than 3 years, Currently I work as Freelancer and a Flutter Instructor for Junior Developers.
-s
-&nbsp;
-------------
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="25" height="25"/>&nbsp; As a Flutter Developer :
-
-* I write clean, testable and well designed flutter applications.
-* I have a very good knowledge with the different ways of managing state in a flutter app (BLoC - RXDart - Riverpod - Provider - etc .. ).
-* I implement complex and responsive UI designs & animations that respects Google Material Design 3 guidelines, providing the best possible user experience.
-* I have a decent experience with RESTful APIs, Firebase, Hive, and SQLite.
-* I have experience with Google WebRTC & WebSocket (Socket.io).
-* I'm familiar with Kotlin & Swift for developing platform specific features in both Android & iOS using Platform Channels.
+#### I'm Mohamed Salama a Self-taught Software Engineer and a Flutter Developer for more than 4 years, Currently I work as Freelancer and a Flutter Instructor for Junior Developers.
 
 ------------
-
 
 ### 🛠 &nbsp;Languages and Tools :
 
