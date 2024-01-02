@@ -11,7 +11,7 @@
 
 ------------
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -29,13 +29,10 @@
 
 ------------
 
-## 📫&nbsp; Contact
-* Whatsapp : &nbsp;&nbsp;&nbsp;&nbsp;+201020732368
-* Email : &nbsp;salama92work@gmail.com
-#### You can also find me on:
-<div id="footer" align="center">
-
-[<img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/salamaEnigma)&nbsp;&nbsp;
+## Contacts
+* [![WhatsApp](https://img.shields.io/badge/Whatsapp_Business-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01020732368)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salamaEnigma)
+* [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:salama92work@gmail.com)
 
 
 </div>
