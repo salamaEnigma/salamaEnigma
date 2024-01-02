@@ -3,16 +3,15 @@
 
 
 ## About Me
-#### Mohamed Salama a Software Engineer with 5+ years of experience in full-stack app developments.
-
+### Mohamed Salama a Software Engineer with 5+ years of experience in full-stack app developments.
 - Contributed in Ehsan apps on both Android & iOS for the Saudi Ehsan Platform (Developed for SDAIA).
 - Contributed as a  Freelancer / Part Time  Engineer in number of projects in Egypt, Kuwait and Qatar.
-- Co-Founder and CTO of Cliques, “Cliques” is building a communication tool for university students to relief the pain of lack of connectivity on campus.
-- Founder of ROOTSOFT a software team with a unique vision ( I hope 😀 ) in the software industry in which we give the DEVELOPERS the creative freedom they need, while assuring the CLIENT the quality and professionalism they require.
+- Co-Founder and CTO of Cliques, "Cliques" allows students to communicate with their colleagues, in a university private space, to exchange ideas, course material, instructor reviews, and match with like-minded study-buddies.
+- Founder of ROOTSOFT a software TEAM with a unique vision in the software industry in which we give the DEVELOPERS the creative freedom they need, while assuring the CLIENT the quality and professionalism they require.
 
 ------------
 
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Tech Stack
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -30,8 +29,8 @@
 
 ------------
 
-### 📫&nbsp; Contact :
-* Tel. : &nbsp;&nbsp;&nbsp;&nbsp;+201020732368
+## 📫&nbsp; Contact
+* Whatsapp : &nbsp;&nbsp;&nbsp;&nbsp;+201020732368
 * Email : &nbsp;salama92work@gmail.com
 #### You can also find me on:
 <div id="footer" align="center">
