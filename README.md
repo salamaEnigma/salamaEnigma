@@ -3,7 +3,7 @@
 
 
 ## About Me
-### Mohamed Salama a Software Engineer with 5+ years of experience in full-stack app developments.
+### Mohamed Salama a Software Engineer with 6+ years of experience in full-stack app developments.
 - Contributed in Ehsan apps on both Android & iOS for the Saudi Ehsan Platform (Developed for SDAIA).
 - Contributed as a  Freelancer / Part Time  Engineer in number of projects in Egypt, Kuwait and Qatar.
 - Creator of Cliques, "Cliques" allows students to communicate with their colleagues, in a university private space, to exchange ideas, course material, instructor reviews, and match with like-minded study-buddies.
