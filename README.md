@@ -3,16 +3,16 @@
 
 
 ## About Me
-### Mohamed Salama a Software Engineer with 6+ years of experience in full-stack app developments.
+### Mohamed Salama a Software Engineer with 7+ years of experience in full-stack app developments.
+- Currently an ***Indie Game Developer / Designer***
 - Contributed in Ehsan apps on both Android & iOS for the Saudi Ehsan Platform (Developed for SDAIA).
-- Contributed as a  Freelancer / Part Time  Engineer in number of projects in Egypt, Kuwait and Qatar.
+- Contributed as a Freelancer / Part Time  Engineer in number of projects in Egypt, Kuwait and Qatar.
 - Creator of Cliques, Cliques is a cloud-based private-communication platform designed to enhance how students communicate on campus. It allows students to collaborate, share knowledge, and elevate their university experience..
-- Game Developer
 ------------
 
 ## Tech Stack
 
-- Dart / Flutter / Flame / Python / Django / Pygame / Javascript / Firebase / Cloud Functions / Docker / Typesense
+- Dart / Flutter / Flame / Python / Django / Pygame / Firebase / Cloud Functions / Docker / Typesense / Godot / GdScript / C / C++ 
 
 ------------
 
